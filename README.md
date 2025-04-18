@@ -18,4 +18,3 @@ Bu AutoHotkey scripti, çift tırnak (") tuşunu Enter tuşu gibi davranacak şe
 
 ## Lisans
 
-[MIT](LICENSE)
